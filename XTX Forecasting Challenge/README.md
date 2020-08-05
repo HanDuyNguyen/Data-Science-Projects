@@ -1,2 +1,2 @@
 
-[GitHub](https://github.com/correlation-one/XTXStarterKit)
+https://github.com/correlation-one/XTXStarterKit
