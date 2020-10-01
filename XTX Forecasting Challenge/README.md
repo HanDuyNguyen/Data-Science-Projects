@@ -22,9 +22,9 @@ The data features can be grouped into four groups: askRate, askSize, bitRate, bi
 
 ## Instruction
 
-1. <code>XTX_EDA.ipynb<code> contains the codes for Exploratory Data Analysis.
+* <code>XTX_EDA.ipynb<code> contains the codes for Exploratory Data Analysis.
   
-2. <code>XTX_LSTM.ipynb<code> contains the Long-Short-Term memory model.
+* <code>XTX_LSTM.ipynb<code> contains the Long-Short-Term memory model.
   
-3. <code>XTX_XGBoost.ipynb<code> contains the XGBoost model which give the lowest test error.  
+* <code>XTX_XGBoost.ipynb<code> contains the XGBoost model which give the lowest test error.  
 
