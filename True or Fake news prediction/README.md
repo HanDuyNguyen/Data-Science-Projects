@@ -33,4 +33,4 @@ There are 3 main features:
 ## Instructions
 
 * <code> Embedding_and_LSTM.ipynb </code> contains the Long-Short-Term model which give the highest accuracy.
-* <code> BernoulliNB.ipynb </code> contains the Barnoulli Naive Bayes model.
+* <code> BernoulliNB.ipynb </code> contains the Bernoulli Naive Bayes model.
