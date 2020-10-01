@@ -1,4 +1,4 @@
-# Predicting the Stock Movement using Machine Learning
+# Predicting  Stock Movements using Machine Learning
 
 In this notebook, we are going to go through a machine learning project with the goal of predicting the stock movement of an unknown asset.
 
