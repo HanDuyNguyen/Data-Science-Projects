@@ -18,4 +18,11 @@ For more on the evaluation of this project check: https://github.com/correlation
 
 ## Features
 
-The data features can be grouped into four groups: askRate, askSize, bitRate, bitSize. Each group has 14 features, for example askRate1,...,askRate14.  
+The data features can be grouped into four groups: askRate, askSize, bitRate, bitSize. Each group has 14 features, for example askRate1,...,askRate14. 
+
+## Instruction
+
+* <code>XTX_EDA.ipynb<code> contains the codes for Exploratory Data Analysis.
+* <code>XTX_LSTM.ipynb<code> contains the Long-Short-Term memory model.
+* <code>XTX_XGBoost.ipynb<code> contains the XGBoost model which give the lowest test error.  
+
