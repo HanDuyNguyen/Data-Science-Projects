@@ -20,7 +20,7 @@ For more on the evaluation of this project check: https://github.com/correlation
 
 The data features can be grouped into four groups: askRate, askSize, bitRate, bitSize. Each group has 14 features, for example askRate1,...,askRate14. 
 
-# Instruction
+# Instructions
 
 * <code>XTX_EDA.ipynb</code> contains the codes for Exploratory Data Analysis.
   
