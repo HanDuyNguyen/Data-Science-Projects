@@ -34,5 +34,5 @@ https://www.kaggle.com/c/prostate-cancer-grade-assessment/data
 
 ## Instruction
 
-The file  <code> ProstrateCancerDetectionUnet.ipynb </code> contains the main codes of this project.
+* The file  <code> ProstrateCancerDetectionUnet.ipynb </code> contains the main codes of this project.
 
