@@ -30,7 +30,7 @@ There are 3 main features:
 * text - the text of the tweet
 * location - the location the tweet was sent from (may be blank)
 * keyword - a particular keyword from the tweet (may be blank)
-## Instructions
+# Instructions
 
 * <code> Embedding_and_LSTM.ipynb </code> contains the Long-Short-Term model which give the highest accuracy.
 * <code> BernoulliNB.ipynb </code> contains the Bernoulli Naive Bayes model.
