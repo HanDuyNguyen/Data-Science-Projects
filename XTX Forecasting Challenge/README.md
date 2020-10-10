@@ -8,7 +8,7 @@ In this notebook, we are going to go through a machine learning project with the
 
 ## 2. Data
 
-The full dataset data-training.csv can be downloaded from https://challenge.xtxmarkets.com/ under the Data Download section.
+The full dataset data-training.csv is provided by the XTX Market company. The data consist 31 coluoms and 
 
 ## 3. Evaluation
 
