@@ -8,7 +8,7 @@ In this notebook, we are going to go through a machine learning project with the
 
 ## 2. Data
 
-The full dataset data-training.csv is provided by the XTX Market company. The data consist 31 coluoms and 
+The full dataset data-training.csv is provided by the XTX Market company. The data consist 31 columns and 2999999 rows. 
 
 ## 3. Evaluation
 
