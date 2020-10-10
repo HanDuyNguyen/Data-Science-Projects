@@ -14,8 +14,6 @@ The full dataset data-training.csv is provided by the XTX Market company. The da
 
 The evaluation metric for this competition is the r2 score. For more information about the r2 score check: https://en.wikipedia.org/wiki/Coefficient_of_determination.
 
-For more on the evaluation of this project check: https://github.com/correlation-one/XTXStarterKit/tree/dev/src.
-
 ## 4. Features
 
 The data features can be grouped into four groups: askRate, askSize, bitRate, bitSize. Each group has 14 features, for example askRate1,...,askRate14. 
