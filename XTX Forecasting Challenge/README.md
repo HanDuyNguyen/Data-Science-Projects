@@ -8,11 +8,11 @@ In this notebook, we are going to go through a machine learning project with the
 
 ## 2. Data
 
-The full dataset data-training.csv is provided by the XTX Market company. The data consist 31 columns and 2999999 rows. 
+The full dataset data-training.csv is provided by the XTX Market company. The data consist 31 columns and 2999999 rows. The total size of the data is 1 GB which is quite large.
 
 ## 3. Evaluation
 
-The evaluation metric for this competition is the r2 score. For more information about the r2 score check: https://en.wikipedia.org/wiki/Coefficient_of_determination.
+The evaluation metric for this problem is the Coefficient of determination (r2 score). For more information about the r2 score check: https://en.wikipedia.org/wiki/Coefficient_of_determination.
 
 ## 4. Features
 
