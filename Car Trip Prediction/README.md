@@ -1,1 +1,1 @@
-
+In this project, we are given a data set of car trips with label 0 (not interesting trip) and label 1 (interesting trip). We want to use this data set to build a machine learning model that can predict whether a new car trip is interesting or not. 
